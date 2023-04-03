@@ -1,0 +1,32 @@
+body {
+    font-family: 'Cairo', sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-weight: 700;
+    color: #343a40;
+}
+
+textarea {
+    resize: none;
+    font-size: 16px;
+    font-family: 'Cairo', sans-serif;
+}
+
+button {
+    font-family: 'Cairo', sans-serif;
+}
+
+#output {
+    font-family: 'Cairo', sans-serif;
+}
+
+.icon-text {
+    display: flex;
+    align-items: center;
+}
+
+.icon-text i {
+    margin-right: 5px;
+}
